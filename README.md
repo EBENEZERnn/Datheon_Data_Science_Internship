@@ -1,5 +1,5 @@
 # Data Science & Machine Learning Portfolio
-### 3. 📉 [Project 3: Predictive Customer Churn Classifier](./README_CHURN.md)
+
 
 
 Welcome to my machine learning repository! This project portfolio contains end-to-end Python implementations for multi-class classification and continuous regression pipelines utilizing **Scikit-Learn**, **Pandas**, **Seaborn**, and **Matplotlib**.
@@ -31,6 +31,9 @@ Both projects are built and fully documented inside individual Jupyter Notebooks
   * Hyperparameter optimization tuning via a **5-Fold Cross-Validated `GridSearchCV`**.
   * Structural comparative performance testing across **OLS Linear Regression**, **Ridge (L2)**, and **Lasso (L1)** paths.
 * **Deliverables Displayed:** Comparative model optimization metric tables evaluating RMSE, MAE, and $R^2$, paired alongside dual-panel Actual vs. Predicted scatter models and Residual Error Distribution overlays.
+
+* ### 3. 📉 [Project 3: Predictive Customer Churn Classifier](./README_CHURN.md)
+
 
 ---
 
