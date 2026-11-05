@@ -1,4 +1,6 @@
 # Data Science & Machine Learning Portfolio
+### 3. 📉 [Project 3: Predictive Customer Churn Classifier](./README_CHURN.md)
+
 
 Welcome to my machine learning repository! This project portfolio contains end-to-end Python implementations for multi-class classification and continuous regression pipelines utilizing **Scikit-Learn**, **Pandas**, **Seaborn**, and **Matplotlib**.
 
